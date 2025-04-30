@@ -60,9 +60,11 @@ c.close()
 ```
 ## OUPUT:
 SERVER:
+
 ![image](https://github.com/user-attachments/assets/413f20fd-e396-4c24-aa74-f2be7858ea81)
 
 CLIENT:
+
 ![image](https://github.com/user-attachments/assets/6e673da2-ce42-42da-9f29-d3542ba48b69)
 
 
